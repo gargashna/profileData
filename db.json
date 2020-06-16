@@ -1,86 +1,85 @@
-
 {
-    "users": [{
-         "id":"1"
-        "personal": {
-           
-            "first_name": "Farah",
-            "last_name": "Deol",
-            "date_of_birth": "06-19-1986",
-            "gender": "female",
-            "nationality": "Indian"
-        },
-        "employment": {
-            "role": "Rec Manager",
-            "location": "Somerset",
-            "Client": "Jaguar",
-            "Employment_type": "Contract Vendor",
-            "Project": "Cheetah",
-            "Client_Manager": "John"
+	"users": [{
+			"id": "1",
+			"personal": {
+
+				"first_name": "Farah",
+				"last_name": "Deol",
+				"date_of_birth": "06-19-1986",
+				"gender": "female",
+				"nationality": "Indian"
+			},
+			"employment": {
+				"role": "Rec Manager",
+				"location": "Somerset",
+				"Client": "Jaguar",
+				"Employment_type": "Contract Vendor",
+				"Project": "Cheetah",
+				"Client_Manager": "John"
 
 
-        },
-        "contact": {
-            "phone": "908-567-xxxx",
-            "email": "farah@galaxe.com",
-            "home_address": "46, Tavern Circle"
+			},
+			"contact": {
+				"phone": "908-567-xxxx",
+				"email": "farah@galaxe.com",
+				"home_address": "46, Tavern Circle"
 
-        }
-    },
-    {
-           "id":"2"
-        "persona2": {
-             
-            "first_name": "Katy",
-            "last_name": "Glaca",
-            "date_of_birth": "06-19-1986",
-            "gender": "female",
-            "nationality": "Indian"
-        },
-        "employment": {
-            "role": "Rec Manager",
-            "location": "Somerset",
-            "Client": "Jaguar",
-            "Employment_type": "Contract Vendor",
-            "Project": "Cheetah",
-            "Client_Manager": "John"
+			}
+		},
+		{
+			"id": "2",
+			"persona2": {
 
-
-        },
-        "contact": {
-            "phone": "908-567-xxxx",
-            "email": "farah@galaxe.com",
-            "home_address": "46, Tavern Circle"
-
-        }
-    },
-    {
-        "id":"3"
-        "persona3": {
-             
-            "first_name": "Aastha",
-            "last_name": "Aggarwal",
-            "date_of_birth": "06-19-1986",
-            "gender": "female",
-            "nationality": "Indian"
-        },
-        "employment": {
-            "role": "Rec Manager",
-            "location": "Somerset",
-            "Client": "Jaguar",
-            "Employment_type": "Contract Vendor",
-            "Project": "Cheetah",
-            "Client_Manager": "John"
+				"first_name": "Katy",
+				"last_name": "Glaca",
+				"date_of_birth": "06-19-1986",
+				"gender": "female",
+				"nationality": "Indian"
+			},
+			"employment": {
+				"role": "Rec Manager",
+				"location": "Somerset",
+				"Client": "Jaguar",
+				"Employment_type": "Contract Vendor",
+				"Project": "Cheetah",
+				"Client_Manager": "John"
 
 
-        },
-        "contact": {
-            "phone": "908-567-xxxx",
-            "email": "farah@galaxe.com",
-            "home_address": "46, Tavern Circle"
+			},
+			"contact": {
+				"phone": "908-567-xxxx",
+				"email": "farah@galaxe.com",
+				"home_address": "46, Tavern Circle"
 
-        }
-    }
-    ]
+			}
+		},
+		{
+			"id": "3",
+			"persona3": {
+
+				"first_name": "Aastha",
+				"last_name": "Aggarwal",
+				"date_of_birth": "06-19-1986",
+				"gender": "female",
+				"nationality": "Indian"
+			},
+			"employment": {
+				"role": "Rec Manager",
+				"location": "Somerset",
+				"Client": "Jaguar",
+				"Employment_type": "Contract Vendor",
+				"Project": "Cheetah",
+				"Client_Manager": "John"
+
+
+			},
+			"contact": {
+				"phone": "908-567-xxxx",
+				"email": "farah@galaxe.com",
+				"home_address": "46, Tavern Circle"
+
+			}
+		}
+	]
 
 }
