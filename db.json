@@ -1,8 +1,9 @@
 
 {
     "users": [{
+         "id":"1"
         "personal": {
-            "id":"1",
+           
             "first_name": "Farah",
             "last_name": "Deol",
             "date_of_birth": "06-19-1986",
@@ -27,9 +28,9 @@
         }
     },
     {
-
+           "id":"2"
         "persona2": {
-             "id":"2",
+             
             "first_name": "Katy",
             "last_name": "Glaca",
             "date_of_birth": "06-19-1986",
@@ -54,9 +55,9 @@
         }
     },
     {
-
+        "id":"3"
         "persona3": {
-             "id":"3",
+             
             "first_name": "Aastha",
             "last_name": "Aggarwal",
             "date_of_birth": "06-19-1986",
