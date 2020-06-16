@@ -28,7 +28,7 @@
 		},
 		{
 			"id": "2",
-			"persona2": {
+			"personal": {
 
 				"first_name": "Katy",
 				"last_name": "Glaca",
@@ -55,7 +55,7 @@
 		},
 		{
 			"id": "3",
-			"persona3": {
+			"personal": {
 
 				"first_name": "Aastha",
 				"last_name": "Aggarwal",
